@@ -3,4 +3,4 @@
 - 💻 Working @ Neural Information Processing Lab, Georgia Tech with Prof. [Celikel Tansu](https://www.centerfordecisionscience.nl/tansu-celikel). 
 - 🌱 Learning basics of Generative AI and working on pet projects to help me learn!
 - 📫 Contact: ppai33@gatech.edu
-- 🌐 pratiksha-pai.github.io
+- 🌐 Website: [pratikshapai.github.io](https://pratikshapai.github.io/)
