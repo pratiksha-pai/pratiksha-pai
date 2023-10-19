@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Pratiksha Pai. 
-- 🎓 Studying Computer Engineering @ Georgia Tech.
+- 🎓 Studying Computer Engineering @ [Georgia Tech](https://www.gatech.edu/).
 - 💻 Working @ Neural Information Processing Lab, Georgia Tech with Prof. [Celikel Tansu](https://www.centerfordecisionscience.nl/tansu-celikel). 
-- 🌱 Learning basics of Generative AI and working on pet projects to help me learn!
+- 🌱 Learning basics of Generative AI and working on pet projects!
 - 📫 Contact: ppai33@gatech.edu
 - 🌐 Website: [pratikshapai.github.io](https://pratikshapai.github.io/)
